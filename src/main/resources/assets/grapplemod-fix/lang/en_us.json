@@ -1,0 +1,6 @@
+{
+  "key.toggle_double_jump": "Toggle jump mode",
+  "toast.toggle_double_jump.title": "Jump Mode Toggled",
+  "toast.toggle_double_jump.description.enabled": "Double jump mode",
+  "toast.toggle_double_jump.description.disabled": "Flight mode"
+}

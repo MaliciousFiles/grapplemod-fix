@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.maliciousfiles.grapplinghookfix.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "grapplinghookfix.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "DoubleJumpMixin",
+    "FlyMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
