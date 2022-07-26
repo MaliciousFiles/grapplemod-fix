@@ -1,4 +1,4 @@
-package io.github.maliciousfiles.grapplinghookfix;
+package io.github.maliciousfiles.grapplemodfix;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.settings.KeyBinding;

@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "io.github.maliciousfiles.grapplinghookfix.mixin",
+  "package": "io.github.maliciousfiles.grapplemodfix.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "grapplinghookfix.refmap.json",
+  "refmap": "grapplemod-fix.refmap.json",
   "mixins": [
   ],
   "client": [

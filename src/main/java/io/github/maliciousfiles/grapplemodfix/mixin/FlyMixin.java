@@ -1,8 +1,7 @@
-package io.github.maliciousfiles.grapplinghookfix.mixin;
+package io.github.maliciousfiles.grapplemodfix.mixin;
 
 import com.yyon.grapplinghook.client.ClientControllerManager;
 import net.minecraft.client.entity.player.ClientPlayerEntity;
-import net.minecraft.entity.player.PlayerEntity;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
 import org.spongepowered.asm.mixin.Mixin;

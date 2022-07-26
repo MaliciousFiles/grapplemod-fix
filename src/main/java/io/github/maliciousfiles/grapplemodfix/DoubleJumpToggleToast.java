@@ -1,4 +1,4 @@
-package io.github.maliciousfiles.grapplinghookfix;
+package io.github.maliciousfiles.grapplemodfix;
 
 import com.mojang.blaze3d.matrix.MatrixStack;
 import com.mojang.blaze3d.systems.RenderSystem;
@@ -7,14 +7,10 @@ import net.minecraft.client.gui.toasts.IToast;
 import net.minecraft.client.gui.toasts.ToastGui;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.Items;
-import net.minecraft.util.IReorderingProcessor;
-import net.minecraft.util.math.MathHelper;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.util.text.TranslationTextComponent;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.api.distmarker.OnlyIn;
-
-import java.util.List;
 
 @OnlyIn(Dist.CLIENT)
 public class DoubleJumpToggleToast implements IToast {
